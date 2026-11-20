@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- The dev API runs over plain HTTP on the local network (lib/env/main_dev.dart).
+         Allow cleartext only for that host; everything else must use HTTPS. -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">192.168.29.204</domain>
+    </domain-config>
+</network-security-config>

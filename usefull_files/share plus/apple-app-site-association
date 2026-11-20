@@ -1,0 +1,77 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "<APPLE_TEAM_ID>.com.gobyplan.app"
+        ],
+        "appID": "<APPLE_TEAM_ID>.com.gobyplan.app",
+        "paths": [
+          "/activity/*",
+          "/vendor/*",
+          "/venue/*",
+          "/share-venue/*",
+          "/combo/*",
+          "/booking/*",
+          "/plans*",
+          "/my-plans*",
+          "/notifications*",
+          "/explore*",
+          "/map*"
+        ],
+        "components": [
+          {
+            "/": "/activity/*",
+            "comment": "Matches activity and venue detail deep links"
+          },
+          {
+            "/": "/vendor/*",
+            "comment": "Matches vendor detail deep links"
+          },
+          {
+            "/": "/venue/*",
+            "comment": "Matches venue detail deep links"
+          },
+          {
+            "/": "/share-venue/*",
+            "comment": "Matches shared venue detail deep links"
+          },
+          {
+            "/": "/combo/*",
+            "comment": "Matches combo deals deep links"
+          },
+          {
+            "/": "/booking/*",
+            "comment": "Matches booking details (auth protected)"
+          },
+          {
+            "/": "/plans*",
+            "comment": "Matches user plans (auth protected)"
+          },
+          {
+            "/": "/my-plans*",
+            "comment": "Matches user plans (auth protected)"
+          },
+          {
+            "/": "/notifications*",
+            "comment": "Matches notifications (auth protected)"
+          },
+          {
+            "/": "/explore*",
+            "comment": "Matches explore map"
+          },
+          {
+            "/": "/map*",
+            "comment": "Matches explore map"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "<APPLE_TEAM_ID>.com.gobyplan.app"
+    ]
+  }
+}

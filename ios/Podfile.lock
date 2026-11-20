@@ -1,0 +1,123 @@
+PODS:
+  - audioplayers_darwin (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - better_player_plus (1.4.1):
+    - Cache (~> 6.0.0)
+    - Flutter
+  - Cache (6.0.0)
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - connectivity_plus (0.0.1):
+    - Flutter
+  - device_info_plus (0.0.1):
+    - Flutter
+  - file_picker_darwin (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - package_info_plus (0.4.5):
+    - Flutter
+  - permission_handler_apple (9.4.8):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+  - syncfusion_flutter_pdfviewer (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - wakelock_plus (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/darwin`)
+  - better_player_plus (from `.symlinks/plugins/better_player_plus/ios`)
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/darwin`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - file_picker_darwin (from `.symlinks/plugins/file_picker_darwin/darwin`)
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
+  - syncfusion_flutter_pdfviewer (from `.symlinks/plugins/syncfusion_flutter_pdfviewer/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Cache
+
+EXTERNAL SOURCES:
+  audioplayers_darwin:
+    :path: ".symlinks/plugins/audioplayers_darwin/darwin"
+  better_player_plus:
+    :path: ".symlinks/plugins/better_player_plus/ios"
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/darwin"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  file_picker_darwin:
+    :path: ".symlinks/plugins/file_picker_darwin/darwin"
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite_darwin:
+    :path: ".symlinks/plugins/sqflite_darwin/darwin"
+  syncfusion_flutter_pdfviewer:
+    :path: ".symlinks/plugins/syncfusion_flutter_pdfviewer/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+
+SPEC CHECKSUMS:
+  audioplayers_darwin: 835ced6edd4c9fc8ebb0a7cc9e294a91d99917d5
+  better_player_plus: dda2b9a976b72762939a06d16a95f492df140419
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  camera_avfoundation: 968a9a5323c79a99c166ad9d7866bfd2047b5a9b
+  connectivity_plus: cb623214f4e1f6ef8fe7403d580fdad517d2f7dd
+  device_info_plus: 21fcca2080fbcd348be798aa36c3e5ed849eefbe
+  file_picker_darwin: 4c2b9a50ea44cb3b071381ea0cf48591bdd80251
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  fluttertoast: fe6790210fdba20801685be946e3a2124b72eef5
+  image_picker_ios: e0ece4aa2a75771a7de3fa735d26d90817041326
+  package_info_plus: af8e2ca6888548050f16fa2f1938db7b5a5df499
+  permission_handler_apple: 92d754bbaa7361d436db2d6c3c1c2a0fdcec462e
+  share_plus: 50da8cb520a8f0f65671c6c6a99b3617ed10a58a
+  shared_preferences_foundation: 7036424c3d8ec98dfe75ff1667cb0cd531ec82bb
+  sqflite_darwin: 20b2a3a3b70e43edae938624ce550a3cbf66a3d0
+  syncfusion_flutter_pdfviewer: 90dc48305d2e33d4aa20681d1e98ddeda891bc14
+  url_launcher_ios: 7a95fa5b60cc718a708b8f2966718e93db0cef1b
+  wakelock_plus: d4ca1e4e4bc9de42cb55d57b5bdc158af318e3c6
+
+PODFILE CHECKSUM: 948f6ecc9421ac9c51388e5a86995da124d2ed1f
+
+COCOAPODS: 1.16.2

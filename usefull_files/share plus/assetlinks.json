@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gobyplan.app",
+      "sha256_cert_fingerprints": [
+        "72:AF:A7:69:60:35:A3:66:DA:12:53:6E:09:EC:C0:FF:59:5D:64:7D:09:5B:F8:E1:34:D9:99:4C:2F:61:42:C7",
+        "<REPLACE_WITH_PRODUCTION_RELEASE_SHA256_FINGERPRINT>"
+      ]
+    }
+  }
+]
